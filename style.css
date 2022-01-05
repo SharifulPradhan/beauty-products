@@ -83,7 +83,7 @@ body {
 .showcase {
   background-color: gray;
   margin-top: 50px;
-  display: grid;
+  display: flex;
 }
 
 .showcase-image {
